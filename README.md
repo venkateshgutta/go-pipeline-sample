@@ -28,3 +28,5 @@ Bring Your Own Infrastructure:
 ## Licensing
 
 MIT License
+
+New line for the Harness certification.
