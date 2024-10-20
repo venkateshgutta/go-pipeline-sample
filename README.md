@@ -21,6 +21,7 @@ Hosted Infrastructure:
 
 ![alt text](./images/harness_ci_hosted_infra_overview-eb7892f29a82eeae8f7112763ae749d1.png)
 
+Update
 Bring Your Own Infrastructure:
 
 ![alt text](./images/harness_ci_your_infra_overview-b5d71133006969a8fe1129e0c48070cb.png)
@@ -28,3 +29,5 @@ Bring Your Own Infrastructure:
 ## Licensing
 
 MIT License
+
+Update
