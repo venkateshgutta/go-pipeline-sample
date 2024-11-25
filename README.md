@@ -1,4 +1,4 @@
-Changes 1 # Go Sample Pipelines in Harness
+Changes 2 # Go Sample Pipelines in Harness
 
 Introduction
 ========================
