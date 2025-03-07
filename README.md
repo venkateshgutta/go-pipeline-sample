@@ -7,7 +7,7 @@ This repository is a home for snippets of YAML code and a sample hello world ser
 ## Getting StartedasjhbsajcbsdesetriggerDAWSFDSAf
 
 Use this README to get started with our sample pipeline repository for Go. This guide outlines the basics of getting started with the Harness CI and provides a full code sample for you to try out. Thisacsacdscsdsddss sample doesn’t include configuration options, for in-depth steps and configuring the pipeline for example using triggers or using our templates see the Pipeline Confasfscsdaciguration Docs.
-
+dcdscds
 The Pipeline will build and run a unit test on a sample go repository, and upload the artifact to Docker Hub. You can use publicly-available code, images, and your GitHub and Docker Hub accounts.ascsacsacaa
 
 ## Workflowaskjsajkdbaskjd.ba
