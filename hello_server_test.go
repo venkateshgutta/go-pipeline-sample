@@ -17,13 +17,11 @@ func TestGreetingSpecificDemo(t *testing.T) {
 }
 
 func TestShowFailure(t *testing.T) {
-	greeting := CreateGreeting("Demo1")
+	greeting := CreateGreeting("Demo")
 	if greeting != "Hello, Demo\n" {
 		t.Errorf("Intentional failure. got: %s, want: %s.", greeting, "Hello, Demo\n")
 	}
 }
-
-
 
 func TestGreetingDefault(t *testing.T) {
 	greeting := CreateGreeting("")
@@ -31,4 +29,3 @@ func TestGreetingDefault(t *testing.T) {
 		t.Errorf("Greeting was incorrect, got: %s, want: %s.", greeting, "Hello, Guest\n")
 	}
 }
- 
