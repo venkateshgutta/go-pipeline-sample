@@ -11,6 +11,7 @@ Use this README to get started with our sample pipeline repository for Go. This 
 The Pipeline will build and run a unit test on a sample go repository, and upload the artifact to Docker Hub. You can use publicly-available code, images, and your GitHub and Docker Hub accounts.
 
 ## Workflow
+Workflow PR Testing
 - Build the code and run unit tests.
 - Package the app as a Docker image and upload it to Docker Hub.
 
