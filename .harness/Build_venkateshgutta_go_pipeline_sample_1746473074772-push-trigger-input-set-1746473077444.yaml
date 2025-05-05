@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_venkateshgutta_go_pipeline_sample_1746473074772-push-trigger-input-set
+  identifier: Build_venkateshgutta_go_pipeline_sample_1746473074772pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: DemoProject
+  pipeline:
+    identifier: Build_venkateshgutta_go_pipeline_sample_1746473074772
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
