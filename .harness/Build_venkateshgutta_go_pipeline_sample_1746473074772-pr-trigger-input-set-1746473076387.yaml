@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_venkateshgutta_go_pipeline_sample_1746473074772-pr-trigger-input-set
+  identifier: Build_venkateshgutta_go_pipeline_sample_1746473074772prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: DemoProject
+  pipeline:
+    identifier: Build_venkateshgutta_go_pipeline_sample_1746473074772
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
