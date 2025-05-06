@@ -51,7 +51,7 @@ pipeline:
                   spec:
                     caching: true
                     connectorRef: <+input>
-                    repo: hello/world
+                    repo: vgutta1577/helloworld
                     tags:
                       - latest
                   timeout: ""
